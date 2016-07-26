@@ -111,3 +111,4 @@ tmp
 .tmp
 dist
 _site
+deploy.sh
